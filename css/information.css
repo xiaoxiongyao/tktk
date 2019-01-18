@@ -1,0 +1,367 @@
+.wear{
+	background-color: #f6f6f6;
+}
+.wear .header{
+	background-color: #dfdfde;
+}
+.wear .header span{
+	font-size: 12px;
+	line-height: 37px;
+}
+.wear .header .lj{
+	font-size: 12px;
+	
+	float: right;
+}
+.wear .header .lj a{
+	margin-left: 15px;
+	line-height: 37px;
+	color: #000;
+}
+/*导航栏*/
+.wear .nav{
+	background-color: #fff;
+}
+.wear .nav .container>img{
+	padding: 20px 0px 20px 0px;
+}
+.wear .nav .nav-btn{
+	float: right;
+	text-align: center;
+
+}
+.wear .nav .nav-btn a{
+	display: inline-block;
+	padding: 30px 10px;
+	color: #212121;
+}
+.wear .nav .nav-btn .active{
+	border-bottom: 3px solid #3c9cd3;
+	background-color: #faf8f8;
+}
+.wear .nav .container input{
+	display: none;
+}
+.wear .nav .container label{
+	float: right;
+	display: none;
+	border: 2px solid #000;
+	border-radius: 5px;
+	width: 36px;
+	height: 27px;
+	margin-top: 30px;
+}
+.wear .nav .container label span{
+	display: block;
+	background-color: #000;
+	width: 30px;
+	height: 3px;
+	margin: 4px auto;
+}
+/*轮播图*/
+.wear .banner {
+	width: 100%;
+
+}
+.wear .banner img{
+	width: 100%;
+	height: 100%;
+}
+/*S6207Y-WR*/
+.wear .wr{
+	background-color: #f6f6f6;
+}
+.wear .wr .container>p{
+	padding-top: 20px;
+}
+.wear .wr .container>p>a{
+	font-size: 12px;
+	color: #000;
+}
+.wear .wr .container>p>span{
+	padding:0px 5px;
+}
+.wear .wr .camera{
+	padding-top: 60px;
+	border-bottom: 1px solid #b4b4b4;
+}
+.wear .wr .camera .left{
+	display: inline-block;
+	width: 45%;
+	text-align: center;
+	vertical-align: bottom;
+	border-right: 1px solid #b4b4b4;
+}
+.wear .wr .camera .left>img{
+	width: 40%;
+
+}
+.wear .wr .camera .left .more img{
+	width: 13%;
+	padding: 8px 15px;
+	border: 1px solid #b4b4b4;
+}
+.wear .wr .camera .right{
+	width: 48%;
+	display: inline-block;
+	padding-left: 60px;
+}
+.wear .wr .camera .right h1{
+	font-size: 1.3em;
+	color: #468bd9;
+}
+.wear .wr .camera .right h2{
+	font-size: 1.3em;
+	padding-top: 15px;
+}
+.wear .wr .camera .right h3{
+	font-size: 1em;
+	padding-top: 20px;
+}
+.wear .wr .camera .right p{
+	font-size: 0.8em;
+	line-height: 20px;
+}
+.wear .wr .camera .right a{
+	width: 170px;
+	height: 50px;
+	font-size: 1em;
+	display: inline-block;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 10px;
+	color: #fff;
+	margin: 30px 0px 20px 0px;
+}
+.wear .wr .camera .right a:first-of-type{
+	background-color: #468bd9;
+}
+.wear .wr .camera .right a:nth-of-type(2){
+	background-color: #b5b5b5;
+	margin-left: 50px;
+}
+/*xxxx*/
+.wear .xxxx .header{
+	margin-top: 40px;
+	width: 100%;
+	height: 100px;
+	background-color: #b5b5b5;
+}
+.wear .xxxx .header .container a{
+	display: inline-block;
+	padding: 36px 5px;
+	background-color: #b5b5b5;
+	color: #fff;
+	margin-right: 60px;
+}
+.wear .xxxx .header .container .active{
+	background-color: #fff;
+	border-bottom: 7px solid #3c9cd3;
+	color: #3c9cd3;
+}
+.wear .xxxx .content{
+	text-align: center;
+	background-color: #fff;
+}
+.wear .xxxx .content h1{
+	font-size: 1.5em;
+	color: #468bd9;
+	padding-top: 40px;
+}
+.wear .xxxx .content p{
+	font-size: 0.8em;
+	line-height: 20px;
+	color: #c1c1c1;
+	padding-top: 15px;
+}
+.wear .xxxx .content .container>img{
+	width: 70%;
+	padding-top: 35px;
+}
+.wear .xxxx .content .use{
+	padding-bottom: 90px;
+}
+.wear .xxxx .content .use h2{
+	font-size: 1.3em;
+	color: #468bd9;
+}
+.wear .xxxx .content .use h3{
+	font-size: 0.9em;
+	font-weight: normal;
+}
+.wear .xxxx .content .use .left>img{
+	width: 50%;
+	border-radius: 50%;
+}
+.wear .xxxx .content .use .right>img{
+	width: 50%;
+	border-radius: 50%;
+}
+.wear .xxxx .content .use .left{
+	display: inline-block;
+	width: 30%;
+}
+.wear .xxxx .content .use>img{
+	width: 28%;
+	vertical-align: 50%;
+}
+.wear .xxxx .content .use .right{
+	width: 30%;
+	display: inline-block;
+}
+
+/*parameter*/
+.wear .parameter .header{
+	width: 100%;
+	height: 100px;
+	background-color: #b5b5b5;
+}
+.wear .parameter .header .container a{
+	display: inline-block;
+	padding: 36px 5px;
+	background-color: #b5b5b5;
+	color: #fff;
+}
+.wear .parameter .content{
+	background-color: #fff;
+}
+.wear .parameter .content .container{
+		text-align: center;
+
+}
+.wear .parameter .content .container img{
+		width: 70%;
+		padding: 86px 0px 130px 0px;
+}
+/*more*/
+.wear .more .header{
+	width: 100%;
+	height: 100px;
+	background-color: #b5b5b5;
+}
+.wear .more .header .container a{
+	display: inline-block;
+	padding: 36px 5px;
+	background-color: #b5b5b5;
+	color: #fff;
+}
+.wear .more .content{
+	background-color: #fff;
+}
+.wear .more .content .container img{
+	width: 15%;
+	margin-left: 4%;
+	padding: 70px 0px 120px 0px;
+}
+/*footer*/
+.wear .footer{
+	width: 100%;
+	background-color: #3c9cd3;
+	text-align: center;
+}
+.wear .footer img{
+	padding-top: 20px;
+}
+.wear .footer>span{
+	vertical-align: 25%;
+}
+.wear .footer p{
+	padding: 20px 0px;
+}
+.wear .footer p span{
+	vertical-align: 25%;
+}
+.wear .footer p a{
+	color: #fff;
+
+}
+.wear .footer span{
+	color: #fff;
+}
+.wear .code{
+	width: 100%;
+	background-color: #1c1b29;
+}
+.wear .code p{
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+	padding: 8px 0px;
+}
+
+
+@media screen and (min-width: 1200px){
+	.container{
+		width: 1100px;
+		margin: 0 auto;
+	}
+}
+@media screen and (max-width: 1200px){
+	.container{
+		width: 970px;
+		margin: 0 auto;
+	}
+	.wear .wr .camera .left{
+		width: 60%;
+		text-align: center;
+		border:0px;
+	}
+	.wear .wr .camera .right{
+		width: 60%;
+		padding-top: 50px;
+	}
+}
+@media screen and (max-width: 997px){
+	.container{
+		width: 750px;
+		margin: 0 auto;
+	}
+	.wear .nav .nav-btn{
+		display: none;
+	}
+	.wear .nav .nav-btn a{
+		width: 80%;
+	}
+	#banner:checked~.nav-btn{
+		display: block;
+	}
+	.wear .nav .container label{
+		display: inline-block;
+		transform:rotateZ(0deg);
+		transition:transform .5s linear;
+	}
+	#banner:checked~label[for="banner"]{
+		transform:rotateZ(90deg);
+		transition:all .5s linear;
+	}
+	.wear .wr .camera .left{
+		width: 70%;
+		text-align: center;
+		border:0px;
+	}
+	.wear .wr .camera .right{
+		width: 70%;
+		padding-top: 50px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.container{
+		width: auto;
+		margin:0 auto;
+	}
+	.wear .wr .camera .left{
+		width: 80%;
+		text-align: center;
+		border:0px;
+	}
+	.wear .wr .camera .right{
+		width: 80%;
+		padding-top: 50px;
+	}
+	.wear .wr .camera .right a:nth-of-type(2){
+	background-color: #b5b5b5;
+	margin:0px 0px 30px 0px;
+}
+
+}
